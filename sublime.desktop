@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Sublime Text 2
+Exec=sublime %F
+Icon=sublime_text.png
+Type=Application
