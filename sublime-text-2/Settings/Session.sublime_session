@@ -1,0 +1,2049 @@
+{
+	"folder_history":
+	[
+		"/home/gliubc/2014/1130",
+		"/home/gliubc/work/standard/middleware-9.6",
+		"/home/gliubc/work/standard/middleware-9.4",
+		"/home/gliubc/work/standard/middleware-9.4/Tool",
+		"/home/gliubc/work",
+		"/home/gliubc/work/standard",
+		"/home/gliubc/2014/1028",
+		"/usr/local/include/wx-3.0/wx",
+		"/usr/include",
+		"/tmp/include",
+		"/usr/share/applications",
+		"/home/gliubc/work/standard/middleware-9.2",
+		"/home/gliubc/2014/1011/FixApp",
+		"/home/gliubc/2014/1011/FixDylib",
+		"/home/gliubc/桌面",
+		"/home/gliubc/新文件夹",
+		"/home/gliubc/2014/0924",
+		"/home/gliubc/work/standard/middleware-8.1",
+		"/",
+		"/home/gliubc/2014/0918",
+		"/home/gliubc/firefox/mozilla-1.9.2",
+		"/home/gliubc/Macbuntu",
+		"/home/gliubc/wxWidgets/wxWidgets-3.0.0",
+		"/home/gliubc/work/standard/middleware-8.0",
+		"/home/gliubc/.config/sublime-text-2/Packages/SublimeREPL",
+		"/home/gliubc/2014/0902",
+		"/home/gliubc/work/standard/middleware-7.0",
+		"/home/gliubc/2014/0829",
+		"/home/gliubc/2014/0826",
+		"/home/gliubc/2014/0826/include",
+		"/media/KINGSTON/Air/Documents/linux-2.6.34",
+		"/home/gliubc/文档/usbview-1.0",
+		"/home/gliubc/2014/0827",
+		"/home/gliubc/work/standard/middleware-6.0",
+		"/home/gliubc/2014/0825",
+		"/home/gliubc/work/standard/middleware-5.2",
+		"/home/gliubc/2014/0820",
+		"/home/gliubc/2014/Aug01",
+		"/home/gliubc/wxWidgets",
+		"/home/gliubc/2014/Jul30",
+		"/home/gliubc/work/standard/middleware-4.3",
+		"/home/gliubc/work/standard/middleware-4.2",
+		"/home/gliubc/firefox",
+		"/home/gliubc/2014",
+		"/home/gliubc/work/nxy",
+		"/home/gliubc/mozilla-1.9.2",
+		"/home/gliubc/下载/singh-src",
+		"/home/gliubc/firebreath-FireBreath-9432a7b",
+		"/home/gliubc/文档/plugin/npapi",
+		"/home/gliubc/nxy/middleware",
+		"/home/gliubc/nxy/middleware/plugin/npapi",
+		"/home/gliubc/nxy/middleware/plugin",
+		"/home/gliubc/2014/Jun09"
+	],
+	"last_window_id": 26,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"appMu",
+						"appMutex"
+					],
+					[
+						"mut",
+						"mutexName"
+					],
+					[
+						"key",
+						"key_t"
+					],
+					[
+						"Fo",
+						"Format"
+					],
+					[
+						"Show",
+						"ShowModal"
+					],
+					[
+						"pSession",
+						"pSessionStrTemp"
+					],
+					[
+						"make",
+						"make-comparison-expr"
+					],
+					[
+						"ripp",
+						"rippped"
+					],
+					[
+						"rip",
+						"rippped"
+					],
+					[
+						"rippe",
+						"ripped-p"
+					],
+					[
+						"arti",
+						"ARTIST-SELECTOR"
+					],
+					[
+						"sel",
+						"selector-fn"
+					],
+					[
+						"pro",
+						"prompt-for-cd"
+					],
+					[
+						"comp",
+						"compile-file"
+					],
+					[
+						"hello",
+						"hello-world"
+					],
+					[
+						"num",
+						"numberb"
+					],
+					[
+						"nu",
+						"numbera"
+					],
+					[
+						"DA",
+						"DATA1"
+					],
+					[
+						"val",
+						"values"
+					],
+					[
+						"string",
+						"string1"
+					],
+					[
+						"com",
+						"command_mode"
+					],
+					[
+						"va",
+						"variables"
+					],
+					[
+						"fru",
+						"fruit_color"
+					],
+					[
+						"ask",
+						"ask-number"
+					],
+					[
+						"an",
+						"ansi_string"
+					],
+					[
+						"wxL",
+						"wxLANGUAGE_CHINESE"
+					],
+					[
+						"CC",
+						"CChangeUserPinParent"
+					],
+					[
+						"dev",
+						"devicePaths"
+					],
+					[
+						"tar",
+						"target_deb"
+					],
+					[
+						"Authoriz",
+						"Authorization"
+					],
+					[
+						"Auth",
+						"AuthorizationRightGet"
+					],
+					[
+						"int",
+						"interpose_t"
+					],
+					[
+						"_dy",
+						"_dyld_get_image_name"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 75.0,
+				"selected_items":
+				[
+					[
+						"form",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package inst",
+						"Package Control: Install Package"
+					],
+					[
+						"package instal",
+						"Package Control: Install Package"
+					],
+					[
+						"gdbsetting",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"gdbsetti",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"gdb setting",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"gdbsett",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"fo",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"gdb",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"format",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"sbcl",
+						"SublimeREPL: SBCL"
+					],
+					[
+						":a",
+						":w - Save"
+					],
+					[
+						"lua",
+						"SublimeREPL: Lua"
+					],
+					[
+						"repllisp",
+						"SublimeREPL: GNU Clisp"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"perl",
+						"SublimeREPL: Perl"
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"replsh",
+						"SublimeREPL: Shell"
+					],
+					[
+						"replclisp",
+						"SublimeREPL: GNU Clisp"
+					],
+					[
+						"repl python",
+						"SublimeREPL: Python"
+					],
+					[
+						"repl shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"repl lisp",
+						"SublimeREPL: GNU Clisp"
+					],
+					[
+						"repl",
+						"SublimeREPL: Shell"
+					],
+					[
+						"packageinst",
+						"Package Control: Install Package"
+					],
+					[
+						"gdb sett",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"package install ",
+						"Package Control: Install Package"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"gdbsettin",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"sublimegdb",
+						"SublimeGDB: Start Debugging"
+					],
+					[
+						"ctags",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"sublimeGdb",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"converttoutf8",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"convert",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"converttou",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"convertto",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 269.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gliubc/work/standard/middleware-9.4/SKF/CWHash.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Output/release/恒银金融控件测试页面.html",
+				"/home/gliubc/work/standard/middleware-9.4/Package/linux_pack.sh",
+				"/home/gliubc/work/standard/middleware-9.4/share/util/AntiDbg.c",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CContainerMgr.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CChangeUserPin.h",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CShowCert.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CApp.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CMainForm.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CChangeUserPin.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/LibUtil/SoftKeyBoard/编译器优化设为Minimize Size.txt",
+				"/tmp/global.h",
+				"/home/gliubc/.gvfs/移动支付 on 192.168.1.170/项目测试/Cashway/管理工具/1.0.0.12/Linux/Linux开发总结.html",
+				"/home/gliubc/Downloads/test.md",
+				"/usr/share/applications/sublime.desktop",
+				"/home/gliubc/work/standard/middleware-9.2/Tool/wxTool/CApp.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/p11Mgr.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CApp.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/main.cpp",
+				"/home/gliubc/2014/1011/FixApp/DBM/DBMProvider.cpp",
+				"/home/gliubc/2014/1011/FixApp/DBM/CShareMemoryManager.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/ProcessMutex.h",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/Cashway11.cpp",
+				"/home/gliubc/2014/1011/FixApp/DBM/DBM.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/include/general.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/util.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/gPK11.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CTSPInterface.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CSlotManager.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CObjMgr.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/include/types.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CApp.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CMainForm.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CMainForm.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CContainerMgr.cpp",
+				"/home/gliubc/.config/sublime-text-2/Packages/User/SublimeGDB.sublime-settings",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/main.cpp",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/CSlotManager.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/samples/thread/thread.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/samples/combo/combo.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CForm.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/app.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/samples/event/event.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/p11Mgr.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/event.h",
+				"/home/gliubc/2014/1011/FixDylib/share/util/ThreadEvent.cpp",
+				"/home/gliubc/2014/1011/FixDylib/share/util/CGenUtil.h",
+				"/home/gliubc/2014/1011/FixDylib/share/util/ProcessEvent.cpp",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/Cashway11.cpp",
+				"/home/gliubc/2014/1011/FixDylib/share/util/ProcessEvent.h",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/CSlotManager.h",
+				"/home/gliubc/2014/1011/FixDylib/share/pk11/pkcs11t.h",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/main",
+				"/home/gliubc/2014/1011/FixApp/DAM/DAM.cpp",
+				"/tmp/include/pthread.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/ThreadEvent.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CSlotManager.h",
+				"/tmp/include/libudev.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/vms_x_fix.h",
+				"/tmp/include/bits/dirent.h",
+				"/tmp/include/bits/types.h",
+				"/tmp/include/c++/4.4/bits/stl_vector.h",
+				"/tmp/include/bits/pthreadtypes.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/CGenUtil.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/language.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/wxMultiLanguage.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/wxMultiLanguage.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CChangeUserPin.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CShowCert.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CDlgWaitPressKeyReview.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CChangeUserPin.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/pkcs11_cw.h",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/pkcs11t.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/CLangFile.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/treectrl.h",
+				"/tmp/include/sys/cdefs.h",
+				"/tmp/include/c++/4.4/streambuf",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/Makefile",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/wxToolLinux.mak",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/wxToolMac.mak",
+				"/home/gliubc/2014/1011/FixApp/share/util/CGenUtil.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CWWaitPressKey.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CVerifyUserPin.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CDlgWaitPressKeySign.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CDlgWaitPressKeyReview.h",
+				"/home/gliubc/2014/1011/FixApp/DBM/DFMProvider.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/CSoftKeyboardEx.cpp",
+				"/home/gliubc/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/gliubc/2014/1011/FixApp/Tool/UserTool/CLangFile.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/ProcessMutex.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/ProcessEvent.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/crc32.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/stdstring.h",
+				"/home/gliubc/2014/1011/FixDylib/share/util/ProcessMutex.cpp",
+				"/tmp/mutex.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/ProcessEvent.h",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/Makefile",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/TSPBot.cpp",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/TSPBot.h",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/TSPHid.cpp",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/TSPHid.h",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/MSP.h",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/MSPProvider.cpp",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/MSP.cpp",
+				"/home/gliubc/2014/1011/FixDylib/DAM/DAM.cpp",
+				"/home/gliubc/2014/1011/FixDylib/DBM/CSMSlotMgr.cpp",
+				"/home/gliubc/2014/1011/FixDylib/DBM/DFMProvider.cpp",
+				"/home/gliubc/2014/1011/FixDylib/DBM/DBMProvider.cpp",
+				"/home/gliubc/2014/1011/FixDylib/DBM/CShareMemoryManager.cpp",
+				"/home/gliubc/2014/1011/FixDylib/share/Alg/tomcrypt.h",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/TSPBase.h",
+				"/home/gliubc/2014/1011/FixDylib/ldtm/TSPBase.cpp",
+				"/home/gliubc/2014/1011/FixDylib/share/util/stdstring.h",
+				"/home/gliubc/.config/sublime-text-2/Packages/Makefile/Make.sublime-build",
+				"/home/gliubc/.config/sublime-text-2/Packages/Java/JavaC.sublime-build",
+				"/home/gliubc/work/standard/middleware-9.2/share/util/CGenUtil.cpp",
+				"/home/gliubc/work/standard/middleware-9.2/share/util/CGenUtil.h",
+				"/home/gliubc/work/standard/middleware-9.2/Package/linux_pack.sh",
+				"/media/UDISK RED/Mac开发总结.txt",
+				"/home/gliubc/work/standard/middleware-9.2/Package/mac_pack.sh",
+				"/home/gliubc/work/standard/middleware-9.2/Package/test.html",
+				"/home/gliubc/2014/0924/hello.cpp",
+				"/home/gliubc/2014/0918/CForm/main.cpp",
+				"/home/gliubc/work/standard/middleware-8.1/Tool/wxTool/CForm.cpp",
+				"/home/gliubc/work/standard/middleware-8.1/Tool/wxTool/CChangeUserPin.cpp",
+				"/home/gliubc/work/standard/middleware-8.1/Cashway11/CChangeUserPin.h",
+				"/home/gliubc/work/standard/middleware-8.1/Cashway11/CChangeUserPin.cpp",
+				"/home/gliubc/work/standard/middleware-8.1/Cashway11/CVerifyUserPin.cpp"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/gliubc/2014/1011/FixApp",
+					"/home/gliubc/wxWidgets/wxWidgets-3.0.0",
+					"/home/gliubc/work/standard/middleware-8.0/share",
+					"/home/gliubc/work/standard/middleware-8.0/Tool/wxTool",
+					"/home/gliubc/work/standard/middleware-8.0/DBM",
+					"/home/gliubc/work/standard/middleware-8.0/Cashway11",
+					"/home/gliubc/work/standard/middleware-8.0/Tool",
+					"/home/gliubc/work/standard/middleware-8.0",
+					"/home/gliubc/work/standard/middleware-8.0/Cashway11",
+					"/home/gliubc/work/standard/middleware-8.0/share/pk11",
+					"/home/gliubc/work/standard/middleware-8.0",
+					"/home/gliubc/work/standard/middleware-8.0/Cashway11",
+					"/home/gliubc/.config/sublime-text-2/Packages/Theme - GitHub/GitHub.tmTheme",
+					"/home/gliubc/.config/sublime-text-2/Packages/SublimeREPL",
+					"/home/gliubc/2014/0829/gnustep-examples-1.4.0",
+					"/home/gliubc/wxWidgets",
+					"/home/gliubc/work/standard/middleware-6.0",
+					"/home/gliubc/wxWidgets",
+					"/home/gliubc/work/standard/middleware-4.2/Tool/wxTool",
+					"/home/gliubc/wxWidgets/wxWidgets-3.0.0/src",
+					"/home/gliubc/wxWidgets/wxWidgets-3.0.0",
+					"/home/gliubc/nxy/middleware",
+					"/home/gliubc/mozilla-1.9.2",
+					"/home/gliubc/mozilla-1.9.2/modules",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/base/public",
+					"/home/gliubc/nxy/middleware/plugin",
+					"/home/gliubc/nxy/middleware/plugin/npapi/include",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/basic",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/basic",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime_demo",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/文档/plugin/npapi/sign",
+					"/home/gliubc/文档/plugin/npapi/npSignEx",
+					"/home/gliubc/文档/plugin/npapi/sign"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"ln",
+					"checkmo",
+					"check_modi",
+					"check",
+					"C_GenerateKeyPair",
+					"pC_GenerateKeyPair",
+					"CK_NEED_ARG_LIST",
+					"waitforslotevent",
+					"m_hMonitorHandle",
+					"OnIdle",
+					"event",
+					"window",
+					"get_p11_mgr",
+					"slotID",
+					"waitforslotevent",
+					"CW_SetEventEx",
+					"token",
+					"ckf",
+					"block",
+					"m_bCancelWaitForSlotEvent",
+					"printf",
+					"TMonitorEvent",
+					"PTHREAD_CREATE",
+					"pthread_create",
+					"pthread_attr_t",
+					"pThis",
+					"OnRefresh",
+					"SetIcon",
+					"cannot open",
+					"Enable",
+					"m_CertCtrl->GetItemData",
+					"TreeInit",
+					"CW_SetTokenParam",
+					"g_LangID",
+					"strFileName",
+					"        ",
+					"Create",
+					"printf",
+					"stdString& strName",
+					"ULONG",
+					"	",
+					"#	",
+					"	",
+					"stdString& strName",
+					"msp",
+					"3315",
+					"wxLogMessage",
+					"ShowModal_CVerifyUserPin",
+					"temp ",
+					"C_InitPin",
+					"rv",
+					"temp ",
+					"C_Login",
+					"C_OpenSession",
+					"temp ",
+					"pSessionStr",
+					"temp",
+					"temp ->",
+					"pSessionStr",
+					"slotid",
+					"c_sign",
+					"temp",
+					"unblock",
+					"C_Sign",
+					"showmodal",
+					"show",
+					"1002",
+					"1007",
+					"if ",
+					"if you",
+					"3358",
+					"3387",
+					"m_edtConformPin",
+					"3335",
+					"ShowModal_CDlgWaitPressKeyReview",
+					"CDlgWaitPressKeyReview",
+					"CDlgWaitPressKeyReviewParent",
+					"3388",
+					"请您仔细核对",
+					"SUPPORT_GET_KEY_STATUS_CMD",
+					"SUPORT_GET_KEY_STATUS_CMD",
+					"LoadAllTokenObject",
+					"save",
+					"staticText",
+					"B4D5FE",
+					"attribute",
+					"function",
+					"66d9ef",
+					"name.",
+					"keyword",
+					"function",
+					"name.function",
+					"#a61717",
+					"#dd1144",
+					"#AA0000",
+					"#.?.?.?.?.?.?",
+					"#.?",
+					"#.?.?.?.?.?.?",
+					"#.?.?.?.?.?",
+					"#.???",
+					"#.?",
+					"#\\?\\?",
+					"#",
+					"a6353c",
+					"b4",
+					"b41c01",
+					"printk",
+					"wxSetCursorEvent",
+					"command",
+					"\"],",
+					"MyFrame",
+					"Label",
+					"ctrl+p",
+					"escape",
+					"ctrl+p",
+					"ctr+p",
+					"print",
+					"keys",
+					"\n	",
+					" []",
+					"[]",
+					"0",
+					"\n	",
+					"down",
+					"command",
+					"ctrl+d",
+					"ctrl+shift+d",
+					"ctrl+d"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"m_edtConfirmPin",
+					"SUPPORT_GET_KEY_STATUS_CMD",
+					"ConfirmPin",
+					"Cancel",
+					"getSN"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 490.0
+			},
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"subli",
+						"sublime.desktop"
+					],
+					[
+						"processmutex",
+						"FixApp/share/util/ProcessMutex.h"
+					],
+					[
+						"dbmpro",
+						"FixApp/DBM/DBMProvider.cpp"
+					],
+					[
+						"dbm",
+						"FixApp/DBM/DBM.cpp"
+					],
+					[
+						"cform.cpp",
+						"FixApp/Tool/wxTool/CForm.cpp"
+					],
+					[
+						"cmainform",
+						"FixApp/Tool/wxTool/CMainForm.cpp"
+					],
+					[
+						"p11mgr.h",
+						"FixApp/share/pk11/p11Mgr.h"
+					],
+					[
+						"libudev.h",
+						"include/libudev.h"
+					],
+					[
+						"dam.cpp",
+						"FixApp/DAM/DAM.cpp"
+					],
+					[
+						"pthread.h",
+						"include/pthread.h"
+					],
+					[
+						"cdefs.h",
+						"include/sys/cdefs.h"
+					],
+					[
+						"stl_vector.h",
+						"include/c++/4.4/bits/stl_vector.h"
+					],
+					[
+						"cgenutil.cpp",
+						"FixApp/share/util/CGenUtil.cpp"
+					],
+					[
+						"cgenutil.h",
+						"FixApp/share/util/CGenUtil.h"
+					],
+					[
+						"cmainfor",
+						"middleware-8.0/Tool/wxTool/CMainForm.cpp"
+					],
+					[
+						"langu",
+						"middleware-8.0/Output/debug/Language.ini"
+					],
+					[
+						"sharememory",
+						"middleware-8.0/share/util/CShareMemory.cpp"
+					],
+					[
+						"commoninterface",
+						"middleware-8.0/plugin/CommonInterface.cpp"
+					],
+					[
+						"cashway11.cpp",
+						"middleware-8.0/Cashway11/Cashway11.cpp"
+					],
+					[
+						"linuxpk11.mak",
+						"Cashway11/linuxPK11.mak"
+					],
+					[
+						"makefile",
+						"ldtm/Makefile"
+					],
+					[
+						"cmainform.cpp",
+						"Tool/wxTool/CMainForm.cpp"
+					],
+					[
+						"",
+						"onlisp.lisp"
+					],
+					[
+						"cgen",
+						"middleware-7.0/share/util/CGenUtil.cpp"
+					],
+					[
+						"nswindowstylemast",
+						"gnustep-examples-1.4.0/gui/GSTest/NSWindowStyleMask-test/NSWindowStyleMask-test.m"
+					],
+					[
+						"nsbutton-test.m",
+						"gnustep-examples-1.4.0/gui/GSTest/NSButton-test/NSButton-test.m"
+					],
+					[
+						"currencyconverter.h",
+						"gnustep-examples-1.4.0/gui/CurrencyConverter/CurrencyConverter.h"
+					],
+					[
+						"screen_main.m",
+						"gnustep-examples-1.4.0/gui/Classes/NSScreenTest/screen_main.m"
+					],
+					[
+						"errno-base",
+						"asm-generic/errno-base.h"
+					],
+					[
+						"errno.h",
+						"asm-generic/errno-base.h"
+					],
+					[
+						"sys/wait.h",
+						"sys/wait.h"
+					],
+					[
+						"wait.h",
+						"wait.h"
+					],
+					[
+						"unistd.h",
+						"unistd.h"
+					],
+					[
+						"tspbot.cpp",
+						"ldtm/TSPBot.cpp"
+					],
+					[
+						"h_des.cpp",
+						"middleware-7.0/share/util/H_Des.cpp"
+					],
+					[
+						"h_des.h",
+						"middleware-7.0/share/util/H_Des.h"
+					],
+					[
+						"wxtoollinux.mak",
+						"Tool/wxTool/wxToolLinux.mak"
+					],
+					[
+						"xpm",
+						"Tool/wxTool/res/usb_OP.xpm"
+					],
+					[
+						"string.cpp",
+						"wxWidgets-3.0.0/src/common/stringimpl.cpp"
+					],
+					[
+						"wxstring.cpp",
+						"wxWidgets/wxWidgets-3.0.0/src/common/string.cpp"
+					],
+					[
+						"types.h",
+						"middleware-6.0/share/include/types.h"
+					],
+					[
+						"changeuserpin.cpp",
+						"middleware-6.0/Cashway11/CChangeUserPin.cpp"
+					],
+					[
+						"cchangeuserpin.cpp",
+						"middleware-6.0/Tool/wxTool/CChangeUserPin.cpp"
+					],
+					[
+						"clanguagefileutf8.cpp",
+						"middleware-6.0/Cashway11/CLanguageFileUTF8.cpp"
+					],
+					[
+						"clanguagefileutf8h",
+						"middleware-6.0/Cashway11/CLanguageFileUTF8.h"
+					],
+					[
+						"clanguagefileutf8",
+						"middleware-6.0/Cashway11/CLanguageFileUTF8.cpp"
+					],
+					[
+						"sms4.cpp",
+						"middleware-6.0/share/Alg/sms4.cpp"
+					],
+					[
+						"sms4.cp",
+						"middleware-6.0/share/Alg/sms4.cpp"
+					],
+					[
+						"cryptoki",
+						"middleware/share/pk11/cryptoki.h"
+					],
+					[
+						"stdstring",
+						"middleware/share/util/stdstring.cpp"
+					],
+					[
+						"cryptoki.h",
+						"middleware/share/pk11/cryptoki.h"
+					],
+					[
+						"npapi.h",
+						"npapi/sign/include/npapi.h"
+					],
+					[
+						"cashway",
+						"Cashway11/Cashway11.cpp"
+					],
+					[
+						"tspbot",
+						"ldtm/TSPBot.cpp"
+					],
+					[
+						"common",
+						"plugin/CommonInterface.cpp"
+					],
+					[
+						"prefer",
+						"/home/gliubc/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 277.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"fil",
+						"file_path"
+					],
+					[
+						"file",
+						"file_base_name"
+					],
+					[
+						"appMu",
+						"appMutex"
+					],
+					[
+						"mut",
+						"mutexName"
+					],
+					[
+						"key",
+						"key_t"
+					],
+					[
+						"Fo",
+						"Format"
+					],
+					[
+						"Show",
+						"ShowModal"
+					],
+					[
+						"pSession",
+						"pSessionStrTemp"
+					],
+					[
+						"make",
+						"make-comparison-expr"
+					],
+					[
+						"ripp",
+						"rippped"
+					],
+					[
+						"rip",
+						"rippped"
+					],
+					[
+						"rippe",
+						"ripped-p"
+					],
+					[
+						"arti",
+						"ARTIST-SELECTOR"
+					],
+					[
+						"sel",
+						"selector-fn"
+					],
+					[
+						"pro",
+						"prompt-for-cd"
+					],
+					[
+						"comp",
+						"compile-file"
+					],
+					[
+						"hello",
+						"hello-world"
+					],
+					[
+						"num",
+						"numberb"
+					],
+					[
+						"nu",
+						"numbera"
+					],
+					[
+						"DA",
+						"DATA1"
+					],
+					[
+						"val",
+						"values"
+					],
+					[
+						"string",
+						"string1"
+					],
+					[
+						"com",
+						"command_mode"
+					],
+					[
+						"va",
+						"variables"
+					],
+					[
+						"fru",
+						"fruit_color"
+					],
+					[
+						"ask",
+						"ask-number"
+					],
+					[
+						"an",
+						"ansi_string"
+					],
+					[
+						"wxL",
+						"wxLANGUAGE_CHINESE"
+					],
+					[
+						"CC",
+						"CChangeUserPinParent"
+					],
+					[
+						"dev",
+						"devicePaths"
+					],
+					[
+						"tar",
+						"target_deb"
+					],
+					[
+						"Authoriz",
+						"Authorization"
+					],
+					[
+						"Auth",
+						"AuthorizationRightGet"
+					],
+					[
+						"int",
+						"interpose_t"
+					],
+					[
+						"_dy",
+						"_dyld_get_image_name"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 329.0,
+				"selected_items":
+				[
+					[
+						"git",
+						"SublimeGDB: Show Input Field"
+					],
+					[
+						"git diff",
+						"Git: Open Modified Files"
+					],
+					[
+						"gitdiff",
+						"Git: Diff Staged"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"gitcomm",
+						"Git: Commit"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"package insa",
+						"Package Control: Install Package"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package install",
+						"Package Control: Install Package"
+					],
+					[
+						"format",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"form",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"package inst",
+						"Package Control: Install Package"
+					],
+					[
+						"package instal",
+						"Package Control: Install Package"
+					],
+					[
+						"gdbsetting",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"gdbsetti",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"gdb setting",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"gdbsett",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"fo",
+						"SublimeAStyleFormatter: Format Current File"
+					],
+					[
+						"gdb",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"sbcl",
+						"SublimeREPL: SBCL"
+					],
+					[
+						":a",
+						":w - Save"
+					],
+					[
+						"lua",
+						"SublimeREPL: Lua"
+					],
+					[
+						"repllisp",
+						"SublimeREPL: GNU Clisp"
+					],
+					[
+						":",
+						":w - Save"
+					],
+					[
+						":q",
+						"Set Syntax: SQL"
+					],
+					[
+						"perl",
+						"SublimeREPL: Perl"
+					],
+					[
+						"shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"replsh",
+						"SublimeREPL: Shell"
+					],
+					[
+						"replclisp",
+						"SublimeREPL: GNU Clisp"
+					],
+					[
+						"repl python",
+						"SublimeREPL: Python"
+					],
+					[
+						"repl shell",
+						"SublimeREPL: Shell"
+					],
+					[
+						"repl lisp",
+						"SublimeREPL: GNU Clisp"
+					],
+					[
+						"repl",
+						"SublimeREPL: Shell"
+					],
+					[
+						"packageinst",
+						"Package Control: Install Package"
+					],
+					[
+						"gdb sett",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"package install ",
+						"Package Control: Install Package"
+					],
+					[
+						"gdbsettin",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"sublimegdb",
+						"SublimeGDB: Start Debugging"
+					],
+					[
+						"ctags",
+						"CTags: Rebuild Tags"
+					],
+					[
+						"sublimeGdb",
+						"Preferences: SublimeGDB Settings – User"
+					],
+					[
+						"packagein",
+						"Package Control: Install Package"
+					],
+					[
+						"converttoutf8",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"convert",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"converttou",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"convertto",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"package insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 269.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/gliubc/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+				"/home/gliubc/2014/1130/Sublime-Text-2/README.md",
+				"/home/gliubc/.config/sublime-text-2/Packages/sublime-text-git/Git.sublime-settings",
+				"/home/gliubc/.config/sublime-text-2/Packages/User/Git.sublime-settings",
+				"/home/gliubc/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/gliubc/2014/1130/hello.c",
+				"/home/gliubc/2014/1130/Sublime-Text-2/Sublime/Icon/128x128/sublime_text.png",
+				"/home/gliubc/2014/1130/Sublime-Text-2/Sublime/sublime_plugin.py",
+				"/tmp/1.txt",
+				"/home/gliubc/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/gliubc/work/standard/middleware-9.6/DBM/CShareMemoryManager.cpp",
+				"/media/本地磁盘/VirtualBox VMs/Windows 10/Windows 10.vbox-prev",
+				"/tmp/strupr.c",
+				"/home/gliubc/work/standard/middleware-9.4/share/util/util.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/share/util/util.h",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CApp.cpp",
+				"/tmp/itoa.c",
+				"/tmp/main.cpp",
+				"/home/gliubc/.config/sublime-text-2/Packages/C++/C++.sublime-build",
+				"/tmp/strupr",
+				"/home/gliubc/work/standard/middleware-9.4/share/include/types.h",
+				"/home/gliubc/work/standard/middleware-9.4/wx/chartype.h",
+				"/home/gliubc/work/standard/middleware-9.4/wx/event.h",
+				"/home/gliubc/work/wx/event.h",
+				"/home/gliubc/2014/1028/wx/log.h",
+				"/home/gliubc/2014/1028/main.cpp",
+				"/home/gliubc/2014/1028/dir/hello.cpp",
+				"/home/gliubc/2014/1028/include/i386-linux-gnu/bits/stdio2.h",
+				"/tmp/hello.cpp",
+				"/usr/local/include/wx-3.0/wx/anidecod.h",
+				"/usr/include/netatalk/at.h",
+				"/usr/local/include/wx-3.0/wx/html/htmlfilt.h",
+				"/usr/include/gio-unix-2.0/gio/gdesktopappinfo.h",
+				"/home/gliubc/.config/sublime-text-2/Packages/CTags/ctags.py",
+				"/home/gliubc/.config/sublime-text-2/Packages/CTags/ctags.pyc",
+				"/tmp/include/X11/extensions/EVI.h",
+				"/tmp/include/X11/XKBlib.h",
+				"/tmp/type-linux.h",
+				"/home/gliubc/work/standard/middleware-9.4/SKF/CWHash.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Output/release/恒银金融控件测试页面.html",
+				"/home/gliubc/work/standard/middleware-9.4/Package/linux_pack.sh",
+				"/home/gliubc/work/standard/middleware-9.4/share/util/AntiDbg.c",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CContainerMgr.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CChangeUserPin.h",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CShowCert.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CMainForm.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/Tool/wxTool/CChangeUserPin.cpp",
+				"/home/gliubc/work/standard/middleware-9.4/LibUtil/SoftKeyBoard/编译器优化设为Minimize Size.txt",
+				"/tmp/global.h",
+				"/home/gliubc/.gvfs/移动支付 on 192.168.1.170/项目测试/Cashway/管理工具/1.0.0.12/Linux/Linux开发总结.html",
+				"/home/gliubc/Downloads/test.md",
+				"/usr/share/applications/sublime.desktop",
+				"/home/gliubc/work/standard/middleware-9.2/Tool/wxTool/CApp.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/p11Mgr.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CApp.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/main.cpp",
+				"/home/gliubc/2014/1011/FixApp/DBM/DBMProvider.cpp",
+				"/home/gliubc/2014/1011/FixApp/DBM/CShareMemoryManager.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/ProcessMutex.h",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/Cashway11.cpp",
+				"/home/gliubc/2014/1011/FixApp/DBM/DBM.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/include/general.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/util.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/gPK11.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CTSPInterface.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CSlotManager.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CObjMgr.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/include/types.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CApp.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CMainForm.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CMainForm.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CContainerMgr.cpp",
+				"/home/gliubc/.config/sublime-text-2/Packages/User/SublimeGDB.sublime-settings",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/main.cpp",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/CSlotManager.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/samples/thread/thread.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/samples/combo/combo.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CForm.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/app.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/samples/event/event.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/p11Mgr.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/event.h",
+				"/home/gliubc/2014/1011/FixDylib/share/util/ThreadEvent.cpp",
+				"/home/gliubc/2014/1011/FixDylib/share/util/CGenUtil.h",
+				"/home/gliubc/2014/1011/FixDylib/share/util/ProcessEvent.cpp",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/Cashway11.cpp",
+				"/home/gliubc/2014/1011/FixDylib/share/util/ProcessEvent.h",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/CSlotManager.h",
+				"/home/gliubc/2014/1011/FixDylib/share/pk11/pkcs11t.h",
+				"/home/gliubc/2014/1011/FixDylib/Cashway11/main",
+				"/home/gliubc/2014/1011/FixApp/DAM/DAM.cpp",
+				"/tmp/include/pthread.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/ThreadEvent.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CSlotManager.h",
+				"/tmp/include/libudev.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/vms_x_fix.h",
+				"/tmp/include/bits/dirent.h",
+				"/tmp/include/bits/types.h",
+				"/tmp/include/c++/4.4/bits/stl_vector.h",
+				"/tmp/include/bits/pthreadtypes.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/CGenUtil.h",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/language.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/wxMultiLanguage.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/wxMultiLanguage.h",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CChangeUserPin.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/CShowCert.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CDlgWaitPressKeyReview.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CChangeUserPin.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/pkcs11_cw.h",
+				"/home/gliubc/2014/1011/FixApp/share/pk11/pkcs11t.h",
+				"/home/gliubc/2014/1011/FixApp/share/util/CLangFile.cpp",
+				"/home/gliubc/wxWidgets/wxWidgets-3.0.0/include/wx/treectrl.h",
+				"/tmp/include/sys/cdefs.h",
+				"/tmp/include/c++/4.4/streambuf",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/Makefile",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/wxToolLinux.mak",
+				"/home/gliubc/2014/1011/FixApp/Tool/wxTool/wxToolMac.mak",
+				"/home/gliubc/2014/1011/FixApp/share/util/CGenUtil.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CWWaitPressKey.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CVerifyUserPin.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CDlgWaitPressKeySign.cpp",
+				"/home/gliubc/2014/1011/FixApp/Cashway11/CDlgWaitPressKeyReview.h",
+				"/home/gliubc/2014/1011/FixApp/DBM/DFMProvider.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/CSoftKeyboardEx.cpp",
+				"/home/gliubc/2014/1011/FixApp/Tool/UserTool/CLangFile.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/ProcessMutex.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/ProcessEvent.cpp",
+				"/home/gliubc/2014/1011/FixApp/share/util/crc32.cpp"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					"/home/gliubc/work/standard/middleware-9.4",
+					"/home/gliubc/2014/1011/FixApp",
+					"/home/gliubc/wxWidgets/wxWidgets-3.0.0",
+					"/home/gliubc/work/standard/middleware-8.0/share",
+					"/home/gliubc/work/standard/middleware-8.0/Tool/wxTool",
+					"/home/gliubc/work/standard/middleware-8.0/DBM",
+					"/home/gliubc/work/standard/middleware-8.0/Cashway11",
+					"/home/gliubc/work/standard/middleware-8.0/Tool",
+					"/home/gliubc/work/standard/middleware-8.0",
+					"/home/gliubc/work/standard/middleware-8.0/Cashway11",
+					"/home/gliubc/work/standard/middleware-8.0/share/pk11",
+					"/home/gliubc/work/standard/middleware-8.0",
+					"/home/gliubc/work/standard/middleware-8.0/Cashway11",
+					"/home/gliubc/.config/sublime-text-2/Packages/Theme - GitHub/GitHub.tmTheme",
+					"/home/gliubc/.config/sublime-text-2/Packages/SublimeREPL",
+					"/home/gliubc/2014/0829/gnustep-examples-1.4.0",
+					"/home/gliubc/wxWidgets",
+					"/home/gliubc/work/standard/middleware-6.0",
+					"/home/gliubc/wxWidgets",
+					"/home/gliubc/work/standard/middleware-4.2/Tool/wxTool",
+					"/home/gliubc/wxWidgets/wxWidgets-3.0.0/src",
+					"/home/gliubc/wxWidgets/wxWidgets-3.0.0",
+					"/home/gliubc/nxy/middleware",
+					"/home/gliubc/mozilla-1.9.2",
+					"/home/gliubc/mozilla-1.9.2/modules",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/base/public",
+					"/home/gliubc/nxy/middleware/plugin",
+					"/home/gliubc/nxy/middleware/plugin/npapi/include",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/basic",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/basic",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime_demo",
+					"/home/gliubc/mozilla-1.9.2/modules/plugin/sdk/samples/npruntime",
+					"/home/gliubc/文档/plugin/npapi/sign",
+					"/home/gliubc/文档/plugin/npapi/npSignEx",
+					"/home/gliubc/文档/plugin/npapi/sign"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"github",
+					"caret",
+					"vdi",
+					"10",
+					"strupr",
+					"itoa",
+					"ln",
+					"checkmo",
+					"check_modi",
+					"check",
+					"C_GenerateKeyPair",
+					"pC_GenerateKeyPair",
+					"CK_NEED_ARG_LIST",
+					"waitforslotevent",
+					"m_hMonitorHandle",
+					"OnIdle",
+					"event",
+					"window",
+					"get_p11_mgr",
+					"slotID",
+					"waitforslotevent",
+					"CW_SetEventEx",
+					"token",
+					"ckf",
+					"block",
+					"m_bCancelWaitForSlotEvent",
+					"printf",
+					"TMonitorEvent",
+					"PTHREAD_CREATE",
+					"pthread_create",
+					"pthread_attr_t",
+					"pThis",
+					"OnRefresh",
+					"SetIcon",
+					"cannot open",
+					"Enable",
+					"m_CertCtrl->GetItemData",
+					"TreeInit",
+					"CW_SetTokenParam",
+					"g_LangID",
+					"strFileName",
+					"        ",
+					"Create",
+					"printf",
+					"stdString& strName",
+					"ULONG",
+					"	",
+					"#	",
+					"	",
+					"stdString& strName",
+					"msp",
+					"3315",
+					"wxLogMessage",
+					"ShowModal_CVerifyUserPin",
+					"temp ",
+					"C_InitPin",
+					"rv",
+					"temp ",
+					"C_Login",
+					"C_OpenSession",
+					"temp ",
+					"pSessionStr",
+					"temp",
+					"temp ->",
+					"pSessionStr",
+					"slotid",
+					"c_sign",
+					"temp",
+					"unblock",
+					"C_Sign",
+					"showmodal",
+					"show",
+					"1002",
+					"1007",
+					"if ",
+					"if you",
+					"3358",
+					"3387",
+					"m_edtConformPin",
+					"3335",
+					"ShowModal_CDlgWaitPressKeyReview",
+					"CDlgWaitPressKeyReview",
+					"CDlgWaitPressKeyReviewParent",
+					"3388",
+					"请您仔细核对",
+					"SUPPORT_GET_KEY_STATUS_CMD",
+					"SUPORT_GET_KEY_STATUS_CMD",
+					"LoadAllTokenObject",
+					"save",
+					"staticText",
+					"B4D5FE",
+					"attribute",
+					"function",
+					"66d9ef",
+					"name.",
+					"keyword",
+					"function",
+					"name.function",
+					"#a61717",
+					"#dd1144",
+					"#AA0000",
+					"#.?.?.?.?.?.?",
+					"#.?",
+					"#.?.?.?.?.?.?",
+					"#.?.?.?.?.?",
+					"#.???",
+					"#.?",
+					"#\\?\\?",
+					"#",
+					"a6353c",
+					"b4",
+					"b41c01",
+					"printk",
+					"wxSetCursorEvent",
+					"command",
+					"\"],",
+					"MyFrame",
+					"Label",
+					"ctrl+p",
+					"escape",
+					"ctrl+p",
+					"ctr+p",
+					"print",
+					"keys",
+					"\n	",
+					" []",
+					"[]",
+					"0"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"m_edtConfirmPin",
+					"SUPPORT_GET_KEY_STATUS_CMD",
+					"ConfirmPin",
+					"Cancel",
+					"getSN"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/gliubc/2014/1130"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 235.0
+			},
+			"output.git":
+			{
+				"height": 124.0
+			},
+			"position": "0,1,0,0,0,0,0,0,0,1440,900",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"subli",
+						"sublime.desktop"
+					],
+					[
+						"processmutex",
+						"FixApp/share/util/ProcessMutex.h"
+					],
+					[
+						"dbmpro",
+						"FixApp/DBM/DBMProvider.cpp"
+					],
+					[
+						"dbm",
+						"FixApp/DBM/DBM.cpp"
+					],
+					[
+						"cform.cpp",
+						"FixApp/Tool/wxTool/CForm.cpp"
+					],
+					[
+						"cmainform",
+						"FixApp/Tool/wxTool/CMainForm.cpp"
+					],
+					[
+						"p11mgr.h",
+						"FixApp/share/pk11/p11Mgr.h"
+					],
+					[
+						"libudev.h",
+						"include/libudev.h"
+					],
+					[
+						"dam.cpp",
+						"FixApp/DAM/DAM.cpp"
+					],
+					[
+						"pthread.h",
+						"include/pthread.h"
+					],
+					[
+						"cdefs.h",
+						"include/sys/cdefs.h"
+					],
+					[
+						"stl_vector.h",
+						"include/c++/4.4/bits/stl_vector.h"
+					],
+					[
+						"cgenutil.cpp",
+						"FixApp/share/util/CGenUtil.cpp"
+					],
+					[
+						"cgenutil.h",
+						"FixApp/share/util/CGenUtil.h"
+					],
+					[
+						"cmainfor",
+						"middleware-8.0/Tool/wxTool/CMainForm.cpp"
+					],
+					[
+						"langu",
+						"middleware-8.0/Output/debug/Language.ini"
+					],
+					[
+						"sharememory",
+						"middleware-8.0/share/util/CShareMemory.cpp"
+					],
+					[
+						"commoninterface",
+						"middleware-8.0/plugin/CommonInterface.cpp"
+					],
+					[
+						"cashway11.cpp",
+						"middleware-8.0/Cashway11/Cashway11.cpp"
+					],
+					[
+						"linuxpk11.mak",
+						"Cashway11/linuxPK11.mak"
+					],
+					[
+						"makefile",
+						"ldtm/Makefile"
+					],
+					[
+						"cmainform.cpp",
+						"Tool/wxTool/CMainForm.cpp"
+					],
+					[
+						"",
+						"onlisp.lisp"
+					],
+					[
+						"cgen",
+						"middleware-7.0/share/util/CGenUtil.cpp"
+					],
+					[
+						"nswindowstylemast",
+						"gnustep-examples-1.4.0/gui/GSTest/NSWindowStyleMask-test/NSWindowStyleMask-test.m"
+					],
+					[
+						"nsbutton-test.m",
+						"gnustep-examples-1.4.0/gui/GSTest/NSButton-test/NSButton-test.m"
+					],
+					[
+						"currencyconverter.h",
+						"gnustep-examples-1.4.0/gui/CurrencyConverter/CurrencyConverter.h"
+					],
+					[
+						"screen_main.m",
+						"gnustep-examples-1.4.0/gui/Classes/NSScreenTest/screen_main.m"
+					],
+					[
+						"errno-base",
+						"asm-generic/errno-base.h"
+					],
+					[
+						"errno.h",
+						"asm-generic/errno-base.h"
+					],
+					[
+						"sys/wait.h",
+						"sys/wait.h"
+					],
+					[
+						"wait.h",
+						"wait.h"
+					],
+					[
+						"unistd.h",
+						"unistd.h"
+					],
+					[
+						"tspbot.cpp",
+						"ldtm/TSPBot.cpp"
+					],
+					[
+						"h_des.cpp",
+						"middleware-7.0/share/util/H_Des.cpp"
+					],
+					[
+						"h_des.h",
+						"middleware-7.0/share/util/H_Des.h"
+					],
+					[
+						"wxtoollinux.mak",
+						"Tool/wxTool/wxToolLinux.mak"
+					],
+					[
+						"xpm",
+						"Tool/wxTool/res/usb_OP.xpm"
+					],
+					[
+						"string.cpp",
+						"wxWidgets-3.0.0/src/common/stringimpl.cpp"
+					],
+					[
+						"wxstring.cpp",
+						"wxWidgets/wxWidgets-3.0.0/src/common/string.cpp"
+					],
+					[
+						"types.h",
+						"middleware-6.0/share/include/types.h"
+					],
+					[
+						"changeuserpin.cpp",
+						"middleware-6.0/Cashway11/CChangeUserPin.cpp"
+					],
+					[
+						"cchangeuserpin.cpp",
+						"middleware-6.0/Tool/wxTool/CChangeUserPin.cpp"
+					],
+					[
+						"clanguagefileutf8.cpp",
+						"middleware-6.0/Cashway11/CLanguageFileUTF8.cpp"
+					],
+					[
+						"clanguagefileutf8h",
+						"middleware-6.0/Cashway11/CLanguageFileUTF8.h"
+					],
+					[
+						"clanguagefileutf8",
+						"middleware-6.0/Cashway11/CLanguageFileUTF8.cpp"
+					],
+					[
+						"sms4.cpp",
+						"middleware-6.0/share/Alg/sms4.cpp"
+					],
+					[
+						"sms4.cp",
+						"middleware-6.0/share/Alg/sms4.cpp"
+					],
+					[
+						"cryptoki",
+						"middleware/share/pk11/cryptoki.h"
+					],
+					[
+						"stdstring",
+						"middleware/share/util/stdstring.cpp"
+					],
+					[
+						"cryptoki.h",
+						"middleware/share/pk11/cryptoki.h"
+					],
+					[
+						"npapi.h",
+						"npapi/sign/include/npapi.h"
+					],
+					[
+						"cashway",
+						"Cashway11/Cashway11.cpp"
+					],
+					[
+						"tspbot",
+						"ldtm/TSPBot.cpp"
+					],
+					[
+						"common",
+						"plugin/CommonInterface.cpp"
+					],
+					[
+						"prefer",
+						"/home/gliubc/.config/sublime-text-2/Packages/User/Preferences.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 277.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

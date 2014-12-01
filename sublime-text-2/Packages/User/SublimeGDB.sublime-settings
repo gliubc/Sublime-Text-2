@@ -1,0 +1,59 @@
+{
+	// Define debugging window layout (window split)
+    // first define column/row separators, then refer to them to define cells
+    "layout":
+    {
+        "cols": [0.0, 1.0],
+        "rows": [0.0, 0.66, 1.0],
+        "cells":
+        [ // c1 r1 c2 r2
+            [0, 0, 1, 1], // -> (0.00, 0.00), (1.00, 0.75)
+            [0, 1, 1, 2]  // -> (0.00, 0.75), (0.33, 1.00)
+        ]
+    },
+
+    // The group used for opening files
+    "file_group": 0,
+
+    "session_group": 1,
+    "session_open": true,
+
+    "console_group": 1,
+    "console_open": true,
+
+    "variables_group": 1,
+    "variables_open": true,
+
+    "callstack_group": 1,
+    "callstack_open": true,
+
+    "registers_group": 1,
+    "registers_open": false,
+
+    "disassembly_group": 1,
+    "disassembly_open": true,
+    // Set to "intel" for intel disassembly flavor. All other
+    // values default to using "att" flavor.
+    "disassembly_flavor": "intel",
+
+    "threads_group": 1,
+    "threads_open": true,
+
+    "breakpoints_group": 1,
+    "breakpoints_open": true,
+
+	// Disables showing the error message dialog when something goes wrong
+    "i_know_how_to_use_gdb_thank_you_very_much": true,
+
+    "workingdir": "/tmp",    
+    // "commandline": "gdb --interpreter=mi /home/gliubc/nxy/middleware/Output/debug/Cashway"
+    // "commandline": "gdb --interpreter=mi /home/gliubc/2014/Jul15/hello"
+    // "commandline": "gdb --interpreter=mi /home/gliubc/2014/Jul30/main"
+    // "commandline": "gdb --interpreter=mi /home/gliubc/2014/Aug01/ex2/main"
+    // "commandline": "gdb --interpreter=mi /home/gliubc/work/standard/middleware-8.0/Output/debug/cashway"
+    // "commandline": "gdb --interpreter=mi /home/gliubc/work/standard/middleware-8.0/Cashway11/Debug/linux/__/__/__/main"
+    // "commandline": "gdb --interpreter=mi /home/gliubc/work/standard/middleware-8.0/Output/debug/cashway"
+    // "commandline": "gdb --interpreter=mi /home/gliubc/2014/1011/FixDylib/Cashway11/main"
+    // "commandline": "gdb --interpreter=mi /tmp/mutex"
+    "commandline": "gdb --interpreter=mi /home/gliubc/2014/1011/FixApp/Tool/wxTool/main"
+}

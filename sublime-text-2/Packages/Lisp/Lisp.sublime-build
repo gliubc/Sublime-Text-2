@@ -1,0 +1,20 @@
+{
+	"cmd": ["sbcl", "--script", "$file"],
+	"working_dir": "${project_path:${folder}}",
+	"selector": "source.lisp",
+	"osx":
+	{
+		"cmd": ["/opt/local/bin/sbcl", "--script", "$file"]
+	},
+	// example in windows with CLISP
+	"windows":
+	{
+		"cmd": ["clisp", "$file"]
+	}
+	// example in windows with SBCL
+	// "windows":
+	// {
+	// 	"cmd": ["sbcl", "--script", "$file"]
+	// }
+
+}
